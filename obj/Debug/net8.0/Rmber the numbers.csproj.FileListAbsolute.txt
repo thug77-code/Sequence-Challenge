@@ -1,0 +1,14 @@
+C:\Users\Ameer\Documents\Rmber the numbers\bin\Debug\net8.0\Rmber the numbers.exe
+C:\Users\Ameer\Documents\Rmber the numbers\bin\Debug\net8.0\Rmber the numbers.deps.json
+C:\Users\Ameer\Documents\Rmber the numbers\bin\Debug\net8.0\Rmber the numbers.runtimeconfig.json
+C:\Users\Ameer\Documents\Rmber the numbers\bin\Debug\net8.0\Rmber the numbers.dll
+C:\Users\Ameer\Documents\Rmber the numbers\bin\Debug\net8.0\Rmber the numbers.pdb
+C:\Users\Ameer\Documents\Rmber the numbers\obj\Debug\net8.0\Rmber the numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ameer\Documents\Rmber the numbers\obj\Debug\net8.0\Rmber the numbers.AssemblyInfoInputs.cache
+C:\Users\Ameer\Documents\Rmber the numbers\obj\Debug\net8.0\Rmber the numbers.AssemblyInfo.cs
+C:\Users\Ameer\Documents\Rmber the numbers\obj\Debug\net8.0\Rmber the numbers.csproj.CoreCompileInputs.cache
+C:\Users\Ameer\Documents\Rmber the numbers\obj\Debug\net8.0\Rmber the numbers.dll
+C:\Users\Ameer\Documents\Rmber the numbers\obj\Debug\net8.0\refint\Rmber the numbers.dll
+C:\Users\Ameer\Documents\Rmber the numbers\obj\Debug\net8.0\Rmber the numbers.pdb
+C:\Users\Ameer\Documents\Rmber the numbers\obj\Debug\net8.0\Rmber the numbers.genruntimeconfig.cache
+C:\Users\Ameer\Documents\Rmber the numbers\obj\Debug\net8.0\ref\Rmber the numbers.dll
