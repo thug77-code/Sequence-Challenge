@@ -1,0 +1,18 @@
+C:\Users\Ameer\Documents\Sequence Challenge\Sequence-Challenge\bin\Debug\net8.0\Sequence Challenge.exe
+C:\Users\Ameer\Documents\Sequence Challenge\Sequence-Challenge\bin\Debug\net8.0\Sequence Challenge.deps.json
+C:\Users\Ameer\Documents\Sequence Challenge\Sequence-Challenge\bin\Debug\net8.0\Sequence Challenge.runtimeconfig.json
+C:\Users\Ameer\Documents\Sequence Challenge\Sequence-Challenge\bin\Debug\net8.0\Sequence Challenge.dll
+C:\Users\Ameer\Documents\Sequence Challenge\Sequence-Challenge\bin\Debug\net8.0\Sequence Challenge.pdb
+C:\Users\Ameer\Documents\Sequence Challenge\Sequence-Challenge\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Ameer\Documents\Sequence Challenge\Sequence-Challenge\obj\Debug\net8.0\Sequence Challenge.csproj.AssemblyReference.cache
+C:\Users\Ameer\Documents\Sequence Challenge\Sequence-Challenge\obj\Debug\net8.0\Sequence Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ameer\Documents\Sequence Challenge\Sequence-Challenge\obj\Debug\net8.0\Sequence Challenge.AssemblyInfoInputs.cache
+C:\Users\Ameer\Documents\Sequence Challenge\Sequence-Challenge\obj\Debug\net8.0\Sequence Challenge.AssemblyInfo.cs
+C:\Users\Ameer\Documents\Sequence Challenge\Sequence-Challenge\obj\Debug\net8.0\Sequence Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Ameer\Documents\Sequence Challenge\Sequence-Challenge\obj\Debug\net8.0\Sequence Challenge.sourcelink.json
+C:\Users\Ameer\Documents\Sequence Challenge\Sequence-Challenge\obj\Debug\net8.0\Sequence.68E23DCB.Up2Date
+C:\Users\Ameer\Documents\Sequence Challenge\Sequence-Challenge\obj\Debug\net8.0\Sequence Challenge.dll
+C:\Users\Ameer\Documents\Sequence Challenge\Sequence-Challenge\obj\Debug\net8.0\refint\Sequence Challenge.dll
+C:\Users\Ameer\Documents\Sequence Challenge\Sequence-Challenge\obj\Debug\net8.0\Sequence Challenge.pdb
+C:\Users\Ameer\Documents\Sequence Challenge\Sequence-Challenge\obj\Debug\net8.0\Sequence Challenge.genruntimeconfig.cache
+C:\Users\Ameer\Documents\Sequence Challenge\Sequence-Challenge\obj\Debug\net8.0\ref\Sequence Challenge.dll

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5UdgpNwk8JNma75UF1FJdj7h6uePYy3MjXZlb6jBXLvQz+DAU+zqaElRYJGSnAlO5vG0LO+xFkWJ1g1Riu5ZZw==",
+  "dgSpecHash": "2LfnHlYsue0LIv31RXWR4kWOoXxAv7taYy0GqEBc7+CvnNQLdfwORq5oLW6ToKO2Tc4DcUioZVqkwUlB/O2m8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ameer\\Documents\\Sequence Challenge\\Rmber the numbers.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ameer\\Documents\\Sequence Challenge\\Sequence-Challenge\\Sequence Challenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ameer\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
   "logs": []
 }
